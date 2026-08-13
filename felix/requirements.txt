@@ -28,7 +28,7 @@ idna==3.3
 importlib-resources==5.8.0
 joblib==1.1.0
 kaggle==1.5.12
-keras==2.9.0
+keras==3.15.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
 libclang==14.0.1
